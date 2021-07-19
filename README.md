@@ -1,3 +1,5 @@
-# [Juliet Li]'s Notes
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
+# Juliet's Notes
+
+## Summary
+
+This repository contains all of the notes taken by [Juliet Li](https://github.com/Julietmtl/lighthouse-web-notes-) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
